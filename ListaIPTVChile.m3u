@@ -59,8 +59,6 @@ http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
 http://movilstream.digitalproserver.com/romanticatv/romanticatvvivo/romanticatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="radios chilenas",Radio Infinita
 http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.rln.cl/wp-content/uploads/2016/08/logo_rln-300x134.png" group-title="radios chilenas", radio las nieves
-http://v1.tustreaming.cl:1935/rlntv/rlntv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.futuro.cl/files/2016/03/logo_futuro2.png" group-title="radios chilenas",Radio Futuro
 http://wow2.cl.digitalproserver.com/futurotv/futurotvvivo/mp4:livestream2/playlist.m3u8
 

@@ -652,6 +652,8 @@ rtmp://stream.smcloud.net/tv/polo_party/polo_party_720p
 http://stream.smcloud.net/tv/vox/vox_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/n/R/s/nR205101219o3.jpg/ru-0-r-108,108-n-nR205101219o3.jpg" group-title="MUSICA", Vox Music TV
 rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,VH1 European
+http://eter.noip.me:8080/live/only-in-moskvatv.com/fytfiugiohvrexrtyf78tyfygjgb/125.m3u8
 
 
 

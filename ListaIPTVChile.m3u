@@ -28,7 +28,7 @@ http://streaming.megatopradio.com:8100/megatopradio
 http://iptvchile.xyz/webdelfutbol.m3u
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/futbolchilenet.png" group-title="Agenda Deportiva", Canales FutbolChile.Net
 http://iptvchile.xyz/futbolchile.m3u
-#EXTINF:-1 tvg-logo="" group-title="Agenda Deportiva", SportsChilw
+#EXTINF:-1 tvg-logo="" group-title="Agenda Deportiva", SportsChile
 http://stream.ssh101.com:1935/live/rtsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png" group-title="radios chilenas",<< RADIOS CHILENAS >>

@@ -1,0 +1,20 @@
+#EXTM3U 
+Especial Clasico Futbol Chileno
+#EXTINF:0 tvg-logo="http://static.latercera.com/20150917/2184611.jpg", FutbolChile Youtube
+https://www.youtube.com/watch?v=QYmO3MO1wpg
+#EXTINF:0 tvg-logo="http://static.latercera.com/20150917/2184611.jpg", SportsChile
+
+http://stream.ssh101.com:1935/live/rtsports/playlist.m3u8
+#EXTINF:0 tvg-logo="http://static.latercera.com/20150917/2184611.jpg", FutbolChile canal 1
+http://cdn.widestream.io:8081/wideedge/2elnr4t/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE2IDE6MTk6NDAgUE0maGFzaF92YWx1ZT1Md2xCeEh5NlVhQXMwQUFzNm1zcnZ3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0 tvg-logo="http://static.latercera.com/20150917/2184611.jpg", FutbolChile canal 2
+http://lz4.finanziger.space/swf/1031.m3u8?sf=NTcxODEwOGUxMTkzYQ==&token=IqyoiZpuXaC6laLEAugwlw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fcz64xf.jpg" group-title="DEPORTES",CDF 1 (SOLO PARTIDOS) 
+http://stream.ssh101.com:1935/live/lalalongo8/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fcz64xf.jpg" group-title="DEPORTES",CDF 2 (SOLO PARTIDOS)
+http://stream.ssh101.com:1935/live/rtsports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fcz64xf.jpg" group-title="DEPORTES",CDF 3 (KODI- ROSADIN) 
+rtmp://www1.iguide.to/iguide playpath=de2brnopfrdk2ia swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=29624&autoplay=true
+#EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="DEPORTES",Estadio CDF HD (ACESTREAM)
+acestream://eba32d2ecee213ffa1fedebc2241da98ca73db24

@@ -6,6 +6,8 @@ http://streaming.megatopradio.com:8100/megatopradio
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png", (info) Lista IPTV Chile Premium
 http://stream.ssh101.com:1935/vodfree/_definst_/v/o/d/i/vodiptvchile/2474.mp4/playlist.m3u8
+#EXTINF:0, Clasico Especial
+https://raw.githubusercontent.com/teran91/Teran91/master/CLASICO.m3u
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/vod.png" group-title="LISTAS",V.O.D PELICULAS
 http://iptvchile.xyz/peliculas.m3u

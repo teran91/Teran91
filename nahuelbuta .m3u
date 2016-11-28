@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-logo:"https://scontent.fscl2-1.fna.fbcdn.net/v/t1.0-9/15036611_1857555184473372_4422391148236487505_n.jpg?oh=aa14d565e8479227a7eb5a67161c7434&oe=58CBC9C6", Nahuelbuta Fm
+#EXTINF:0 tvg-logo="https://scontent.fscl2-1.fna.fbcdn.net/v/t1.0-9/15036611_1857555184473372_4422391148236487505_n.jpg?oh=aa14d565e8479227a7eb5a67161c7434&oe=58CBC9C6", Nahuelbuta Fm
 http://iphone-streaming.ustream.tv/uhls/21419400/streams/live/iphone/playlist.m3u8

@@ -56,7 +56,7 @@ http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="radios chilenas",Radio Polar
 http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.romantica.cl/wp-content/themes/radio-romantica-2016/images/logo-romantica-solo.png" group-title="radios chilenas",Radio Romantica
-http://movilstream.digitalproserver.com/romanticatv/romanticatvvivo/romanticatv.smil/playlist.m3u8
+http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="radios chilenas",Radio Infinita
 http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="radios chilenas",Radio Agricultura

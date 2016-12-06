@@ -11,64 +11,206 @@ http://q.gs:80/14608897/lista?USER=power-by-juan&PASS=stream.m3u8
 http://q.gs:80/14608897/lista?USER=power-by-juan&PASS=stream.m3u8
 #EXTINF:0,tipo: de cable
 http://q.gs:80/14608897/lista?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,Azteca 13
+http://q.gs:80/14608897/power-by-juan-canal-424?stream.m3u8
+#EXTINF:0,Galavision 
+http://q.gs:80/14608897/power-by-juan-canal-425?stream.m3u8
+#EXTINF:0,Azteca 7 
+http://q.gs:80/14608897/power-by-juan-canal-426?stream.m3u8
+#EXTINF:0,Galavision
+http://q.gs:80/14608897/power-by-juan-canal-427?stream.m3u8
+#EXTINF:0,Canal De Las Estrellas Hd
+http://q.gs:80/14608897/power-by-juan-canal-428?stream.m3u8
+#EXTINF:0,Discovery Kids
+http://q.gs:80/14608897/power-by-juan-canal-429?stream.m3u8
+#EXTINF:0,Disney Junior 
+http://q.gs:80/14608897/power-by-juan-canal-430?stream.m3u8
+#EXTINF:0,Disney Multicountry
+http://q.gs:80/14608897/power-by-juan-canal-431?stream.m3u8
+#EXTINF:0,NickToons
+http://q.gs:80/14608897/power-by-juan-canal-433?stream.m3u8
+#EXTINF:0,Nickelodeon
+http://q.gs:80/14608897/power-by-juan-canal-434?stream.m3u8
+#EXTINF:0,Cartoon Network
+http://q.gs:80/14608897/power-by-juan-canal-435?stream.m3u8
+#EXTINF:0,Disney Xd Multicountry
+http://q.gs:80/14608897/power-by-juan-canal-436?stream.m3u8
+#EXTINF:0,Boomerang Cartoon
+http://q.gs:80/14608897/power-by-juan-canal-437?stream.m3u8
+#EXTINF:0,Fox
+http://q.gs:80/14608897/power-by-juan-canal-438?stream.m3u8
+#EXTINF:0,Axn Hd
+http://q.gs:80/14608897/power-by-juan-canal-439?stream.m3u8
+#EXTINF:0,Sony Hd
+http://q.gs:80/14608897/power-by-juan-canal-440?stream.m3u8
+#EXTINF:0,Warner
+http://q.gs:80/14608897/power-by-juan-canal-441?stream.m3u8
+#EXTINF:0,Universal Channel
+http://q.gs:80/14608897/power-by-juan-canal-442?stream.m3u8
+#EXTINF:0,Fx Hd
+http://q.gs:80/14608897/power-by-juan-canal-443?stream.m3u8
+#EXTINF:0,Tru Tv
+http://q.gs:80/14608897/power-by-juan-canal-444?stream.m3u8
+#EXTINF:0,Fox
+http://q.gs:80/14608897/power-by-juan-canal-445?stream.m3u8
+#EXTINF:0,Bbce
+http://q.gs:80/14608897/power-by-juan-canal-446?stream.m3u8
+#EXTINF:0,E
+http://q.gs:80/14608897/power-by-juan-canal-447?stream.m3u8
+#EXTINF:0,Universal Channel
+http://q.gs:80/14608897/power-by-juan-canal-448?stream.m3u8
+#EXTINF:0,Fox Sy Fy
+http://q.gs:80/14608897/power-by-juan-canal-449?stream.m3u8
+#EXTINF:0,Fox Life
+http://q.gs:80/14608897/power-by-juan-canal-450?stream.m3u8
+#EXTINF:0,Distrito Comedia
+http://q.gs:80/14608897/power-by-juan-canal-451?stream.m3u8
+#EXTINF:0,Tlnovelas
+http://q.gs:80/14608897/power-by-juan-canal-452?stream.m3u8
+#EXTINF:0,Hbo Hd Este
+http://q.gs:80/14608897/power-by-juan-canal-453?stream.m3u8
+#EXTINF:0,Hbo 2
+http://q.gs:80/14608897/power-by-juan-canal-454?stream.m3u8
+#EXTINF:0,Fox 1 Este
+http://q.gs:80/14608897/power-by-juan-canal-455?stream.m3u8
+#EXTINF:0,Fox Action
+http://q.gs:80/14608897/power-by-juan-canal-456?stream.m3u8
+#EXTINF:0,Fox Movies Hd 
+http://q.gs:80/14608897/power-by-juan-canal-457?stream.m3u8
+#EXTINF:0,Cinecanal Sd Hd
+http://q.gs:80/14608897/power-by-juan-canal-458?stream.m3u8
+#EXTINF:0,Tnt
+http://q.gs:80/14608897/power-by-juan-canal-459?stream.m3u8
+#EXTINF:0,Golden
+http://q.gs:80/14608897/power-by-juan-canal-460?stream.m3u8
+#EXTINF:0,Film Zone
+http://q.gs:80/14608897/power-by-juan-canal-461?stream.m3u8
+#EXTINF:0,AMC HD
+http://q.gs:80/14608897/power-by-juan-canal-463?stream.m3u8
+#EXTINF:0,Space Hd
+http://q.gs:80/14608897/power-by-juan-canal-464?stream.m3u8
+#EXTINF:0,Cinemax
+http://q.gs:80/14608897/power-by-juan-canal-465?stream.m3u8
+#EXTINF:0,Golden Edge
+http://q.gs:80/14608897/power-by-juan-canal-466?stream.m3u8
+#EXTINF:0,Amc
+http://q.gs:80/14608897/power-by-juan-canal-467?stream.m3u8
+#EXTINF:0,Studio Universal
+http://q.gs:80/14608897/power-by-juan-canal-468?stream.m3u8
+#EXTINF:0,I.Sat
+http://q.gs:80/14608897/power-by-juan-canal-469?stream.m3u8
+#EXTINF:0,Tcm
+http://q.gs:80/14608897/power-by-juan-canal-470?stream.m3u8
+#EXTINF:0,HD Theater
+http://q.gs:80/14608897/power-by-juan-canal-471?stream.m3u8
+#EXTINF:0,History 
+http://q.gs:80/14608897/power-by-juan-canal-423?stream.m3u8
+#EXTINF:0,NatGeo Wild 
+http://q.gs:80/14608897/power-by-juan-canal-473?stream.m3u8
+#EXTINF:0,Discovery Channel
+http://q.gs:80/14608897/power-by-juan-canal-474?stream.m3u8
+#EXTINF:0,Animal Planet
+http://q.gs:80/14608897/power-by-juan-canal-475?stream.m3u8
+#EXTINF:0,Discovery Home And Health
+http://q.gs:80/14608897/power-by-juan-canal-476?stream.m3u8
+#EXTINF:0,National Geographic
+http://q.gs:80/14608897/power-by-juan-canal-478?stream.m3u8
+#EXTINF:0,Investigation Discovery
+http://q.gs:80/14608897/power-by-juan-canal-479?stream.m3u8
+#EXTINF:0,M Tv
+http://q.gs:80/14608897/power-by-juan-canal-480?stream.m3u8
+#EXTINF:0,ClaroSports
+http://q.gs:80/14608897/power-by-juan-canal-481?stream.m3u8
+#EXTINF:0,Espn 1
+http://q.gs:80/14608897/power-by-juan-canal-482?stream.m3u8
+#EXTINF:0,Espn 2
+http://q.gs:80/14608897/power-by-juan-canal-483?stream.m3u8
+#EXTINF:0,Espn 3
+http://q.gs:80/14608897/power-by-juan-canal-484?stream.m3u8
+#EXTINF:0,Fox Sports
+http://q.gs:80/14608897/power-by-juan-canal-485?stream.m3u8
+#EXTINF:0,Fox Sports 2
+http://q.gs:80/14608897/power-by-juan-canal-486?stream.m3u8
+#EXTINF:0,Ufc Network Hd
+http://q.gs:80/14608897/power-by-juan-canal-487?stream.m3u8
+#EXTINF:0,Caracol
+http://q.gs:80/14608897/power-by-juan-canal-488?stream.m3u8
+#EXTINF:0,Canal Rcn HD
+http://q.gs:80/14608897/power-by-juan-canal-489?stream.m3u8
+#EXTINF:0,Canal Rcn HD 2
+http://q.gs:80/14608897/power-by-juan-canal-490?stream.m3u8
+#EXTINF:0,Rusia Today en Español
+http://q.gs:80/14608897/power-by-juan-canal-491?stream.m3u8
+#EXTINF:0,Señal Colombia
+http://q.gs:80/14608897/power-by-juan-canal-492?stream.m3u8
+#EXTINF:0,EWTN
+http://q.gs:80/14608897/power-by-juan-canal-493?stream.m3u8
+#EXTINF:0,Telecafe
+http://q.gs:80/14608897/power-by-juan-canal-494?stream.m3u8
 #EXTINF:0,peliculas 24/7
 http://q.gs:80/14608897/power-by-juan-canal-87?stream.m3u8
 #EXTINF:0,Fox 1
 http://q.gs:80/14608897/power-by-juan-canal-50?stream.m3u8
-#EXTINF:-1,FOX Movies 
+#EXTINF:0,FOX Movies 
 http://q.gs:80/14608897/power-by-juan-canal-302?stream.m3u8
-#EXTINF:-1,Canal de las EstrellAS
+#EXTINF:0,Canal de las EstrellAS
 http://q.gs:80/14608897/power-by-juan-canal-303?stream.m3u8
-#EXTINF:-1,GalaTV 
+#EXTINF:0,GalaTV 
 http://q.gs:80/14608897/power-by-juan-canal-304?stream.m3u8
-#EXTINF:-1,Univision TDN 
+#EXTINF:0,Univision TDN 
 http://q.gs:80/14608897/power-by-juan-canal-305?stream.m3u8
-#EXTINF:-1,Disney XD 
+#EXTINF:0,Disney XD 
 http://q.gs:80/14608897/power-by-juan-canal-306?stream.m3u8
-#EXTINF:-1,HBO Family 
+#EXTINF:0,HBO Family 
 http://q.gs:80/14608897/power-by-juan-canal-307?stream.m3u8
 #EXTINF:0, EuroSport 1
 http://q.gs:80/14608897/power-by-juan-canal-406?stream.m3u8
 #EXTINF:0,Euronews Español
 http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
-#EXTINF:-1,Telehit 
+#EXTINF:0,Telehit 
 http://q.gs:80/14608897/power-by-juan-canal-308?stream.m3u8
-#EXTINF:-1,Ritmoson 
+#EXTINF:0,Ritmoson 
 http://q.gs:80/14608897/power-by-juan-canal-309?stream.m3u8
-#EXTINF:-1,Fox Cinema 
+#EXTINF:0,Fox Cinema 
 http://q.gs:80/14608897/power-by-juan-canal-310?stream.m3u8
-#EXTINF:-1,FOX Family 
+#EXTINF:0,FOX Family 
 http://q.gs:80/14608897/power-by-juan-canal-311?stream.m3u8
-#EXTINF:-1,TNT 
+#EXTINF:0,TNT 
 http://q.gs:80/14608897/power-by-juan-canal-312?stream.m3u8
-#EXTINF:-1,VENUS 
+#EXTINF:0,VENUS 
 http://q.gs:80/14608897/power-by-juan-canal-313?stream.m3u8
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:0,FOX SPORTS 2
 http://q.gs:80/14608897/power-by-juan-canal-314?stream.m3u8
-#EXTINF:-1,Espn 
+#EXTINF:0,Espn 
 http://q.gs:80/14608897/power-by-juan-canal-315?stream.m3u8
-#EXTINF:-1,ONCE TV
+#EXTINF:0,ONCE TV
 http://q.gs:80/14608897/power-by-juan-canal-316?stream.m3u8
-#EXTINF:-1,FOX SPORT 3
+#EXTINF:0,FOX SPORT 3
 http://q.gs:80/14608897/power-by-juan-canal-317?stream.m3u8
-#EXTINF:-1,Exa tv 
+#EXTINF:0,Exa tv 
 http://q.gs:80/14608897/power-by-juan-canal-318?stream.m3u8
-#EXTINF:-1,MLB NETWORK 
+#EXTINF:0,MLB NETWORK 
 http://q.gs:80/14608897/power-by-juan-canal-319?stream.m3u8
-#EXTINF:-1,NBC UNIVERSO HD
+#EXTINF:0,NBC UNIVERSO HD
 http://q.gs:80/14608897/power-by-juan-canal-321?stream.m3u8
-#EXTINF:0,Fox
-http://q.gs:80/14608897/power-by-juan-canal-47?stream.m3u8
-#EXTINF:-1,VPLUS TV
+#EXTINF:0,VPLUS TV
 http://q.gs:80/14608897/power-by-juan-canal-405?stream.m3u8
-#EXTINF:-1,Virgin Radio
+#EXTINF:0,ESPM 3 (beta)
+http://q.gs:80/14608897/power-by-juan-canal-418?stream.m3u8
+#EXTINF:0,Virgin Radio
 http://q.gs:80/14608897/power-by-juan-canal-404?stream.m3u8
-#EXTINF:-1,WIN SPORTS
+#EXTINF:0,WIN SPORTS
 http://q.gs:80/14608897/power-by-juan-canal-403?stream.m3u8
-#EXTINF:-1,TELE MÚSICA
+#EXTINF:0,TELE MÚSICA
 http://q.gs:80/14608897/power-by-juan-canal-401?stream.m3u8
-#EXTINF:-1,TV AZTECA GUATE
+#EXTINF:0,TV AZTECA GUATE
 http://q.gs:80/14608897/power-by-juan-canal-402?stream.m3u8
+#EXTINF:0,Los Simpsons (24/7 HD)
+http://q.gs:80/14608897/power-by-juan-canal-422?stream.mp4
+#EXTINF:0,Gravity Falls (24/7 HD)
+http://q.gs:80/14608897/power-by-juan-canal-420?stream.mp4
+#EXTINF:0,Game Of Thrones (24/7 HD)
+http://q.gs:80/14608897/power-by-juan-canal-421?stream.mp4
 #EXTINF:0,CDF PREMIUN
 https://www.youtube.com/watch?v=068A0oG3IQw&app=desktop?.m3u8
 #EXTINF:0,ANIME TV 24/7
@@ -175,6 +317,20 @@ http://q.gs:80/14608897/lista?USER=power-by-juan&PASS=stream.m3u8
 http://q.gs:80/14608897/lcanal-13?USER=power-by-juan&PASS=stream.m3u8
 #EXTINF:0,BS24 LIVE TV
 http://q.gs:80/14608897/qcanal-14?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0,Ask
+http://q.gs:80/14608897/power-by-juan-canal-501?stream.m3u8
+#EXTINF:0,BS24 Live
+http://q.gs:80/14608897/power-by-juan-canal-500?stream.m3u8
+#EXTINF:0,ButGO
+http://q.gs:80/14608897/power-by-juan-canal-499?stream.m3u8
+#EXTINF:0,Jasmin TV
+http://q.gs:80/14608897/power-by-juan-canal-498?stream.m3u8
+#EXTINF:0,Jasmin TV HD
+http://q.gs:80/14608897/power-by-juan-canal-497?stream.m3u8
+#EXTINF:0,LiveTing
+http://q.gs:80/14608897/power-by-juan-canal-496?stream.m3u8
+#EXTINF:0,Okadai TV
+http://q.gs:80/14608897/power-by-juan-canal-495?stream.m3u8
 #EXTINF:0,tipo: de deporte
 http://q.gs:80/14608897/lista?USER=power-by-juan&PASS=stream.m3u8
 #EXTINF:0,DXTV
@@ -217,6 +373,22 @@ http://q.gs:80/14608897/qcanal-154?USER=power-by-juan&PASS=stream.m3u8
 rtmp://www1.iguide.to/iguide playpath=de2brnopfrdk2ia swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=29624&autoplay=true
 #EXTINF:0,Estadio CDF HD Acestream - Arenavision (ANDROID - SOLO PARTIDOS)
 acestream://eba32d2ecee213ffa1fedebc2241da98ca73db24
+TVN
+http://q.gs:80/14608897/power-by-juan-canal-410?stream.m3u8
+MEGA
+http://q.gs:80/14608897/power-by-juan-canal-411?stream.m3u8
+CANAL 13
+http://q.gs:80/14608897/power-by-juan-canal-412?stream.m3u8
+UCV HD
+http://q.gs:80/14608897/power-by-juan-canal-413?stream.m3u8
+UCV VALPARIZO CHILE HD
+http://q.gs:80/14608897/power-by-juan-canal-414?stream.m3u8
+UCV RADIO CHILE 
+http://q.gs:80/14608897/power-by-juan-canal-415?stream.m3u8
+TVU TV DIGITAL CHILE HD
+http://q.gs:80/14608897/power-by-juan-canal-416?stream.m3u8
+UOCT
+http://q.gs:80/14608897/power-by-juan-canal-417?stream.m3u8
 #EXTINF:0,TVN (GEOBLOQUEO)
 http://q.gs:80/14608897/qcanal-161?USER=power-by-juan&PASS=stream.m3u8
 #EXTINF:0,TVN

@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.entutele.com/feed.xml"
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png",Lista IPTV Chile | 23/11/2016 Hora 07.24
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png",Lista IPTV Chile | 6/12/2016 Hora 07.24
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png", Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
 http://streaming.megatopradio.com:8100/megatopradio
@@ -34,7 +34,7 @@ http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1  tvg-logo="http://iptvchile.xyz/LogosTv/carolinatv.png" group-title="radios chilenas", Radio Carolina 
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/s98741q_zps0vnfywxj.png" group-title="radios chilenas", Radio Tiempo 
-http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/84184_zpsd0gzhp6h.png" group-title="radios chilenas", Radio Duna 
 http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo-zero-light_zpstwvtq006.png" group-title="radios chilenas", Radio Zero 

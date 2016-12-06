@@ -61,6 +61,10 @@ http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="radios chilenas",Radio Agricultura
 http://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="radios chilenas",Radio Futuro
+http://wow2.cl.digitalproserver.com/futurotv/futurotvvivo/futurotv.smil/jwplayer.smil
+#EXTINF:0 tvg-logo="" group-title="radios chilenas",Radio Futuro 2
+http://unlimited6-cl.digitalproserver.com/iarcstudios/iarcstudios.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png" group-title="NACIONALES", << NACIONALES >>
 http://streaming.megatopradio.com:8100/megatopradio

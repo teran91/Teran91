@@ -20,7 +20,7 @@ http://iptvchile.xyz/karaoke.m3u
 http://iptvchile.xyz/Series.m3u
 
 #EXTINF:-1, test
-http://hlsdl.esy.es/hls_exabytetv_reflect.php?canal=Exabyte%20Kids&calidad=HD&master=exabytetv&f=.m3u8
+http://hlsdl.esy.es/hls_exabytetv_reflect.php?canal=Exabyte%20Kids&calidad=HD&xxx=true&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png " group-title="Agenda Deportiva",<< AGENDA DEPORTIVA >> (En Vivo solo partidos)
 http://streaming.megatopradio.com:8100/megatopradio

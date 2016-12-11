@@ -61,10 +61,6 @@ http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 http://movilstream.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="radios chilenas",Radio Agricultura
 http://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="radios chilenas",Radio Futuro
-http://wow2.cl.digitalproserver.com/futurotv/futurotvvivo/futurotv.smil/jwplayer.smil
-#EXTINF:0 tvg-logo="" group-title="radios chilenas",Radio Futuro 2
-http://unlimited6-cl.digitalproserver.com/iarcstudios/iarcstudios.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png" group-title="NACIONALES", << NACIONALES >>
 http://streaming.megatopradio.com:8100/megatopradio
@@ -234,7 +230,10 @@ http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3
 http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?
 #EXTINF:-1 tvg-logo="http://d2mhmd1y9dvsiv.cloudfront.net/wp-content/themes/lacuarta/img/logo_lacuartatv.png" group-title="zona ocio", La Cuarta TV
 http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/logos/mixpeliculas.png" group-title="zona ocio", vitato tv
+http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/logos/mixpeliculas.png" group-title="zona ocio", vitato tv series
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/LogosTv/logo%20iptv%20chile.png" group-title="ENTRETENIMIENTO", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio

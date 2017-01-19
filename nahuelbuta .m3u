@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://scontent.fscl2-1.fna.fbcdn.net/v/t1.0-9/15036611_1857555184473372_4422391148236487505_n.jpg?oh=aa14d565e8479227a7eb5a67161c7434&oe=58CBC9C6", Nahuelbuta Fm
+#EXTINF:0 tvg-logo="https://scontent.fscl2-1.fna.fbcdn.net/v/t1.0-9/15036611_1857555184473372_4422391148236487505_n.jpg?oh=aa14d565e8479227a7eb5a67161c7434&oe=58CBC9C6", Nahuelbuta Fm TV
 http://iphone-streaming.ustream.tv/uhls/21419400/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://i3.radionomy.com/radios/200/d7ca8a80-9f50-44b7-8c49-6b0fece5b969" group-title="Radios Chilenas", Radio Nahuelbuta Lebu
+http://listen.shoutcast.com/radionahuelbutalebu

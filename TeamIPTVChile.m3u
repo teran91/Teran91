@@ -1213,6 +1213,44 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", << ARGENTINA >>
 http://streaming.megatopradio.com/megatopradio
+
+#EXTINF:0, canal 7 HD
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:0, america HD
+http://ar.watcha.live/ch3/hi.m3u8
+
+#EXTINF:0, canal 9 HD
+http://ar.watcha.live/ch5/hi.m3u8
+
+#EXTINF:0, telefe HD
+http://ar.watcha.live/ch6/hi.m3u8
+
+#EXTINF:0, el trece HD
+http://ar.watcha.live/ch7/hi.m3u8
+
+
+#EXTINF:0, deportv HD
+http://ar.watcha.live/ch8/hi.m3u8
+
+#EXTINF:0, a24 HD
+http://ar.watcha.live/ch2/hi.m3u8
+
+#EXTINF:0, c5n HD
+http://ar.watcha.live/ch1/hi.m3u8
+
+#EXTINF:0, qm HD
+http://ar.watcha.live/ch19/hi.m3u8
+
+#EXTINF:0, ln HD 
+http://ar.watcha.live/ch9/hi.m3u8
+
+#EXTINF:0, cn23 HD
+http://ar.watcha.live/ch11/hi.m3u8
+
+#EXTINF:0, canal 26
+http://ar.watcha.live/ch10/hi.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Icons_Chi/c5n.png" group-title="ARGENTINA",C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1 tvg-logo="Canal 9 Parana" group-title="ARGENTINA",Canal 9 Parana
@@ -1600,22 +1638,7 @@ http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
 http://iptvnation.com/porn/video.mp4
 #EXTINF:0 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg" , Visit-X
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/107.png" tvg-group="Adultos" ,Venus 
-http://iptvlatinototal.ml/hls/s2/Sind/285/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/109.png" tvg-group="Adultos" , Sextreme 
-http://iptvlatinototal.ml/hls/s2/Sind/287/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/605.png" tvg-group="Adultos" , Secrets 
-http://iptvlatinototal.ml/hls/s2/Sind/1025/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/111.png" tvg-group="Adultos" , Playboy TV 
-http://iptvlatinototal.ml/hls/s2/Sind/289/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/601.png" tvg-group="Adultos" , Real 
-http://iptvlatinototal.ml/hls/s2/Sind/1021/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/603.png" tvg-group="Adultos" , Juicy 
-http://iptvlatinototal.ml/hls/s2/Sind/1023/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/849.png"tvg-group="Adultos" , Xtsy XXX 
-http://iptvlatinototal.ml/hls/s2/Sind/1463/playlist.m3u8
-#EXTINF:0 tvg-logo="http://consultoriapt.com/images/venus-logo.png" , Venus
-http://edge4.telesport.pw/live/venus/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/AdultSwim.svg/2000px-AdultSwim.svg.png" , Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 

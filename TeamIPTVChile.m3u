@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.entutele.com/feed.xml"
+#EXTM3U url-tvg="http://epg.entutele.com/feed.xml"
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png",Lista Principal | 18/09/2017 Hora 11.00
 http://streaming.megatopradio.com/megatopradio
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", Una mas de Team IPTV Chile
@@ -301,56 +301,8 @@ https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chespirito_mania/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="ENTRETENIMIENTO", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com/megatopradio
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/a%26e.png" group-title="ENTRETENIMIENTO",A&E
-http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/AXN.png" group-title="ENTRETENIMIENTO",AXN 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/azclic.png" group-title="ENTRETENIMIENTO",Az Clic 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/AzCorazon.png" group-title="ENTRETENIMIENTO",Az Corazon 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/HolaTv.png" group-title="ENTRETENIMIENTO",¡Hola! TV
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTIN:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/bbc-entertainment.png" group-title="ENTRETENIMIENTO",BBC Entertainment
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/comedycentralhd.png" group-title="ENTRETENIMIENTO",Comedy Central
-http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/home-and-health.png" group-title="ENTRETENIMIENTO",Discovery Home & Health
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/distrito-comedia.png" group-title="ENTRETENIMIENTO",Distrito Comedia
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/e!-entertainment-television.png" group-title="ENTRETENIMIENTO",E! Entertainment Television
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox.png" group-title="ENTRETENIMIENTO",Fox
-http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-life.png" group-title="ENTRETENIMIENTO",Fox Life
-http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fx.png" group-title="ENTRETENIMIENTO",FX
-http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/garage-tv.png" group-title="ENTRETENIMIENTO",Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/glitz.png" group-title="ENTRETENIMIENTO",Glitz
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/lifetime.png" group-title="ENTRETENIMIENTO",Lifetime
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/sony.png" group-title="ENTRETENIMIENTO",Sony
-http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/syfy.png" group-title="ENTRETENIMIENTO",SyFy
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tbs.png" group-title="ENTRETENIMIENTO",TBS Very Funny
-http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/trendy.png" group-title="ENTRETENIMIENTO",Trendy
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/trutv.png" group-title="ENTRETENIMIENTO",TruTV
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/unicable.png" group-title="ENTRETENIMIENTO",Unicable
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUCYm2ghYFPJe9feVVr8vqh3vkqnTaB7SDxNowFIPWuUPCea-r2df1J3EB" group-title="ENTRETENIMIENTO",E!
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fashion.png" group-title="ENTRETENIMIENTO",Fashion TV LA
 http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fashion.png" group-title="ENTRETENIMIENTO",Fashion TV Europa
@@ -369,34 +321,6 @@ http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="INFANTILES", << INFANTILES >>
 http://streaming.megatopradio.com/megatopradio
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Boomerang_Logo_2014.png" group-title="INFANTILES",Boomerang
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cartoon-network.png" group-title="INFANTILES",Cartoon Network 
-http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cbeebies.png" group-title="INFANTILES",CBeebies 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/discovery-kids.png" group-title="INFANTILES",Discovery Kids 
-http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/disney-channel.png" group-title="INFANTILES",Disney Channel
-http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/disney-jr.png" group-title="INFANTILES",Disney Jr
-http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/disney-xd.png" group-title="INFANTILES",Disney XD
-http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/nickelodeon-%28nick%29.png" group-title="INFANTILES",Nick
-http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/nick-jr.png" group-title="INFANTILES",Nick Jr
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Nick_2.png" group-title="INFANTILES",Nick 2
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/nicktoons.png" group-title="INFANTILES",NickToons
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tiin.png" group-title="INFANTILES",TIIN
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tooncast.png" group-title="INFANTILES",Tooncast
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/screen-shot-2012-03-27-at-3-14-36-pm.png?ssl=1&w=450", Baby Tv
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450", PakaPaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/anime.png" group-title="INFANTILES" ,CANAL ANIME
@@ -410,68 +334,10 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="PELICULAS-SERIES", << PELICULAS-SERIES >>
 http://streaming.megatopradio.com/megatopradio
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/amc.png" group-title="PELICULAS-SERIES",AMC 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/azcinema.png" group-title="PELICULAS-SERIES",Az Cinema 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cinecanal-%28W%29.png" group-title="PELICULAS-SERIES",Cinecanal 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cinecanal-%28W%29.png" group-title="PELICULAS-SERIES",Cinecanal Plus 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cinemax-%28w%29.png" group-title="PELICULAS-SERIES",Cinemax
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/de-pelicula.png" group-title="PELICULAS-SERIES",De Pelicula HD
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/sinlogo.png" group-title="PELICULAS-SERIES",DHE
 http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-1-hd.png" group-title="PELICULAS-SERIES",Fox 1
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-action.png" group-title="PELICULAS-SERIES",Fox Action
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-cinema.png" group-title="PELICULAS-SERIES",Fox Cinema
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-classics.png" group-title="PELICULAS-SERIES",Fox Classics
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/fox-movies-HD.png" group-title="PELICULAS-SERIES",Fox Movies
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="PELICULAS-SERIES",Fox Premium series
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/golden.png" group-title="PELICULAS-SERIES",Golden
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/golden-edge.png" group-title="PELICULAS-SERIES",Golden Edge
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/i.sat.png" group-title="PELICULAS-SERIES",I-Sat
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/space.png" group-title="PELICULAS-SERIES",Space
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/studio-universal.png" group-title="PELICULAS-SERIES",Studio Universal
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tcm.png" group-title="PELICULAS-SERIES",TCM
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/the-film-zone-hd.png" group-title="PELICULAS-SERIES",The Film Zone
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tnt.png" group-title="PELICULAS-SERIES",TNT
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tnt-series.png" group-title="PELICULAS-SERIES",TNT Series
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tnt-hd.png" group-title="PELICULAS-SERIES",TNT HD España
 http://edge6.telesport.pw/live/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/universal-channel.png" group-title="PELICULAS-SERIES",Universal Channel
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/UniversalchannelHD.png" group-title="PELICULAS-SERIES",Universal HD
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/warner.png" group-title="PELICULAS-SERIES",Warner HD
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/220px-HBO_Signature.svg.png" group-title="PELICULAS-SERIES", HBO Signature
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/hbo.png" group-title="PELICULAS-SERIES", HBO
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/jz8pjm.jpg" group-title="PELICULAS-SERIES", HBO 2
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2cp5mc7.jpg" group-title="PELICULAS-SERIES", HBO Plus
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/afd581ebb4fdce570171a23828085d6a_130x110.png" group-title="PELICULAS-SERIES", HBO Family
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/LogosTv/trailertv.jpg" group-title="PELICULAS-SERIES", Trailer Tv
 https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="PELICULAS-SERIES",Trailer Tv Kids
@@ -479,28 +345,6 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="DEPORTES", << DEPORTES >>
 http://streaming.megatopradio.com/megatopradio
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/AyM.png" group-title="DEPORTES",AyM Sports 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Beinsportlogo.png" group-title="DEPORTES",Bein Sports
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/px.png" group-title="DEPORTES",PX TV 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:0 tvg-logo="http://www.iptvchile.xyz/logos/boxnation.png" group-title="DEPORTES" ,Box Nation 
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Combate.png" group-title="DEPORTES",Combate
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Comcast%20SportsNet%20CSN.png" group-title="DEPORTES",Comcast SportsNet CSN
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/espnmore.png" group-title="DEPORTES",ESPN +
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BHaHYey3GD6wEZ%2BhRddjcTBDPDIMxxKf2Us5yTy%2BIjgHKIpxdnJR%2FVbxS7cqJK4hHO%2FahYwgcJkA%3D%3D
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/espn.png" group-title="DEPORTES",ESPN Mexico
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19tq10NRqDFuPsRgN32jMFUzLtBooiydSSVu82deZzYTfyxRVWSIgSd
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/espn-2.png" group-title="DEPORTES",ESPN 2 Mexico
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BEG7jCxLpnavzUljJrjuePAz%2BGEbEfXJFeVrjSnyyzZn8PER8P%2F4T9
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/espn-3.png" group-title="DEPORTES",ESPN 3 Mexico
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/FoxSports2.png" group-title="DEPORTES",Fox Sports 2 Mexico
-https://ia801506.us.archive.org/3/items/offline_201705/offline.mp4
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/foxsport.png" group-title="DEPORTES",Fox Sports Mexico
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/foxsport.png" group-title="Deportes", Fox Sport Mexico HD

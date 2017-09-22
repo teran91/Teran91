@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.entutele.com/feed.xml"
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png",Lista Principal | 18/09/2017 Hora 11.00
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png",Lista Principal | 21/09/2017 Hora 11.00
 http://streaming.megatopradio.com/megatopradio
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", Una mas de Team IPTV Chile
 http://streaming.megatopradio.com/megatopradio
@@ -26,43 +26,8 @@ acestream://7620c3b34add0772d9b7fe9011aa86bde201c0ba
 EXTINF:0, deporteschile.net
 https://live6.userapi.com/613501/live/G28uKhFAfw0/playlist.m3u8
 
-
-#EXTINF:-1,Azteca Cinema HD
-http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
-#EXTINF:-1,Azteca Corazon HD
-http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
-#EXTINF:-1,Azteca Click HD
-http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
-#EXTINF:-1,Telefe HD
-http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
-#EXTINF:-1,Tv Quisqueya HD
-http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
-#EXTINF:-1,Show Business HD
-http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
-#EXTINF:-1,Latin Angels HD
-http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
-#EXTINF:-1,Antena 3 HD
-http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1,Hola TV HD
-http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
-#EXTINF:-1,RCN Novelas HD
-http://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master2500k.m3u8
-#EXTINF:-1,RCN Nuestra Tele HD
-http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
-#EXTINF:-1,NTN24HD
-http://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master2500k.m3u8
-#EXTINF:-1,TyC Sports HD
-http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 #EXTINF:-1,A3Series HD
 http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
-#EXTINF:-1,TV Chile HD
-http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
-#EXTINF:-1,AYM Sports HD
-http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
-#EXTINF:-1,Latin American Sports HD
-http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
-#EXTINF:-1,Caracol HD
-http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="radios chilenas",<< RADIOS CHILENAS >>
 http://streaming.megatopradio.com/megatopradio
@@ -129,6 +94,8 @@ http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0kJfD7l.png" group-title="NACIONALES", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1tvg-logo="http://i.imgur.com/0kJfD7l.png" group-title="NACIONALES",TV Chile HD
+http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/LogoMega2015.png" group-title="NACIONALES",Mega 
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?#ListaIPTVChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital
@@ -354,6 +321,22 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/a_mas.png" group-title="ENTRETENIMIENTO",A+
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1,Azteca Cinema HD
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+#EXTINF:-1,Azteca Corazon HD
+http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+#EXTINF:-1,Azteca Click HD
+http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
+#EXTINF:-1,Show Business HD
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+#EXTINF:-1,Latin Angels HD
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+#EXTINF:-1,Antena 3 HD
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Hola TV HD
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+#EXTINF:-1,RCN Novelas HD
+http://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master2500k.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="INFANTILES", << INFANTILES >>
@@ -382,6 +365,12 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="DEPORTES", << DEPORTES >>
 http://streaming.megatopradio.com/megatopradio
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TyC Sports HD
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",PXSports HD
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Latin American Sports HD
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/foxsport.png" group-title="DEPORTES",Fox Sports Mexico
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/foxsport.png" group-title="Deportes", Fox Sport Mexico HD
@@ -498,10 +487,7 @@ http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 http://5.255.90.223:2082/play/btx5
 #EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", Univision TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TDN
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19akRmvyVqQf4UXwryli%2B2JcJizAZdwZYR2E19%2FpjYOYYnnkvYRYYN5
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",NBA TV
-http://cdn2.shurs.xyz/verliga/23/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="CULTURA-DOCUMENTAL", << CULTURA & DOCUMENTALES >>
 http://streaming.megatopradio.com/megatopradio
@@ -1189,6 +1175,12 @@ http://46.23.67.42:8088/live/golperu87/playlist.m3u8?
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", << COLOMBIA >>
 http://streaming.megatopradio.com/megatopradio
+#EXTINF:-1,RCN HD
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
+#EXTINF:-1,NTN24HD
+http://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master2500k.m3u8
+#EXTINF:-1,Caracol HD
+http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/caracol.png" group-title="COLOMBIA",Caracol HD
 https://mdstrm.com/live-stream-playlist_IPTVColombia/582f4f6f246da2e008eda56d.m3u8?iptvchile.xyz?iptv.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Cable_Noticias.png" group-title="COLOMBIA",Cable Noticias
@@ -1250,44 +1242,6 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", << ARGENTINA >>
 http://streaming.megatopradio.com/megatopradio
-
-#EXTINF:0, canal 7 HD
-http://ar.watcha.live/ch4/hi.m3u8
-#EXTINF:0, america HD
-http://ar.watcha.live/ch3/hi.m3u8
-
-#EXTINF:0, canal 9 HD
-http://ar.watcha.live/ch5/hi.m3u8
-
-#EXTINF:0, telefe HD
-http://ar.watcha.live/ch6/hi.m3u8
-
-#EXTINF:0, el trece HD
-http://ar.watcha.live/ch7/hi.m3u8
-
-
-#EXTINF:0, deportv HD
-http://ar.watcha.live/ch8/hi.m3u8
-
-#EXTINF:0, a24 HD
-http://ar.watcha.live/ch2/hi.m3u8
-
-#EXTINF:0, c5n HD
-http://ar.watcha.live/ch1/hi.m3u8
-
-#EXTINF:0, qm HD
-http://ar.watcha.live/ch19/hi.m3u8
-
-#EXTINF:0, ln HD 
-http://ar.watcha.live/ch9/hi.m3u8
-
-#EXTINF:0, cn23 HD
-http://ar.watcha.live/ch11/hi.m3u8
-
-#EXTINF:0, canal 26
-http://ar.watcha.live/ch10/hi.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/Icons_Chi/c5n.png" group-title="ARGENTINA",C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1 tvg-logo="Canal 9 Parana" group-title="ARGENTINA",Canal 9 Parana
@@ -1348,7 +1302,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_a
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-
+#EXTINF:-1,Telefe HD
+http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" , << HONDURAS >>
 http://streaming.megatopradio.com/megatopradio
@@ -1436,6 +1391,8 @@ http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
 https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REP. DOMINICANA",Microvision (La Vega)
 http://5.189.152.43:11757/live/PlayKodi-2PKS/token-kdkkw893jsksndioei802e89e3uehu3e39ju3ido3j/190.m3u8
+#EXTINF:-1,Tv Quisqueya HD
+http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", << GUATEMALA >>
 http://streaming.megatopradio.com/megatopradio
@@ -1548,7 +1505,7 @@ http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png", << VENEZUELA >>
 http://streaming.megatopradio.com/megatopradio
-#EXTINF:-1 tvg-logo="" group-title="VENEZUELA",Anzoï¿½tegui
+#EXTINF:-1 tvg-logo="" group-title="VENEZUELA",Anzoategui
 http://edge.wms28.lorini.net/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_27037.png" group-title="VENEZUELA",Canal i
 http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
@@ -1568,7 +1525,7 @@ http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 http://stream.telearagua.com/telearagua/telearagua/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VENEZUELA",Telecolor
 http://edge.wms28.lorini.net/telecolor/telecolor/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VENEZUELA",Telemax Mï¿½sica
+#EXTINF:-1 tvg-logo="" group-title="VENEZUELA",Telemax Musica
 http://edge.wms28.lorini.net/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VENEZUELA",TeleSUR 31
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8

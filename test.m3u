@@ -6,6 +6,39 @@ http://streaming.megatopradio.com/megatopradio
 #EXTINF:0 tvg-logo="hhttps://i.imgur.com/uoh5Pd3.png" group-title="TEAMIPTVCHILE", Mas Info y/o sugerencias en iptvchile.xyz
 http://streaming.megatopradio.com/megatopradio
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPoPV2i.png" group-title="MUNDIAL 2018",MUNDIAL RUSSIA 2018
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2lhjCRl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="MUNDIAL 2018",MUNDIAL: RPC TV
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2M2N48P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmOxr6Q.png" group-title="MUNDIAL 2018",MUNDIAL: TDN HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/v/2031.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWTfazT.png" group-title="MUNDIAL 2018",MUNDIAL: TELEMUNDO HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/g/12410.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3RLUB6.png" group-title="MUNDIAL 2018",MUNDIAL: TELEMETRO
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2lhjCRl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pk7kkct.png" group-title="MUNDIAL 2018",MUNDIAL: DIRECTV SPORTS
+http://tvpremiumhd.club/lista-gratuita/094924/tv/v/2032.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOfI89i.png" group-title="MUNDIAL 2018",MUNDIAL: AZTECA 7 HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/g/12134.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpTfAfW.png" group-title="MUNDIAL 2018",MUNDIAL: Las Estrellas HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/g/12083.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqkXdcS.png" group-title="MUNDIAL 2018",MUNDIAL: LATINA TELEVISIÓN
+http://tvpremiumhd.club/lista-gratuita/094924/tv/v/2007.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="MUNDIAL 2018",MUNDIAL: COS HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2tbpaQU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqKYZvm.png" group-title="MUNDIAL 2018",MUNDIAL: Canal 13
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2K1MM5R.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tWtOMB.png" group-title="MUNDIAL 2018",MUNDIAL: CARACOL TV
+http://tvpremiumhd.club/lista-gratuita/094924/tv/v/1947.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUh9igN.png" group-title="MUNDIAL 2018",MUNDIAL: RCN HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2JU2AXe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTGhrbr.png" group-title="MUNDIAL 2018",MUNDIAL: BE MAD HD
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2yoUcdU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWTfazT.png" group-title="MUNDIAL 2018",MUNDIAL: TELEMUNDO FHD (SOLO USA)
+http://tvpremiumhd.club/lista-gratuita/094924/tv/id/2yh5p04.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="radios chilenas",<< RADIOS CHILENAS >>
 http://streaming.megatopradio.com/megatopradio
 #EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/carolinatv.png" group-title="radios chilenas", Radio Carolina 

@@ -1,0 +1,92 @@
+#EXTM3U url-tvg="http://epg.entutele.com/feed.xml"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoh5Pd3.png" group-title="TEAMIPTVCHILE",Lista Principal | 28/02/2018 Hora 22.00
+http://streaming.megatopradio.com/megatopradio
+#EXTINF:0 tvg-logo="https://i.imgur.com/uoh5Pd3.png" group-title="TEAMIPTVCHILE", Una mas de Team IPTV Chile
+http://streaming.megatopradio.com/megatopradio
+#EXTINF:0 tvg-logo="hhttps://i.imgur.com/uoh5Pd3.png" group-title="TEAMIPTVCHILE", Mas Info y/o sugerencias en iptvchile.xyz
+http://streaming.megatopradio.com/megatopradio
+
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="radios chilenas",<< RADIOS CHILENAS >>
+http://streaming.megatopradio.com/megatopradio
+#EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/carolinatv.png" group-title="radios chilenas", Radio Carolina 
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="radios chilenas",Radio Candela
+http://unlimited6-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fmtiempo.cl/wp-content/uploads/2017/03/logo.jpg" group-title="radios chilenas", Radio Tiempo 
+http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.duna.cl/wp-content/themes/duna_theme/img/duna_small.png" group-title="radios chilenas", Radio Duna 
+http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo-zero-light_zpstwvtq006.png" group-title="radios chilenas", Radio Zero 
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="radios chilenas", Radio La Clave 
+http://unlimited4-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/im/logo100.gif" group-title="radios chilenas", Radio ADN
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://iptvchile.xyz/Logos/TeVe/Tele13_Radio_zpspn4m8raf.png" group-title="radios chilenas", Tele13 Radio 
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+#EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="radios chilenas",AE Radio
+http://edge1.cl.grupoz.cl/aeradio/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://patagoniaradio.cl/wp-content/uploads/2016/09/patagoniaradio_-copia.png" group-title="radios chilenas",Patagonia RadioTV
+https://v3.tustreaming.cl/patagoniatv/live1/event-999999.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/uploads/media/4199/poster_300x300-2.jpg" group-title="radios chilenas",Radio Polar
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.romantica.cl/wp-content/themes/radio-romantica-2016/images/logo-romantica-solo.png" group-title="radios chilenas",Radio Romantica
+http://unlimited5-cl.digitalproserver.com/romanticatv/romanticatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.infinita.cl/wp-content/themes/infinita/img/logo.png" group-title="radios chilenas",Radio Infinita
+http://unlimited4-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.radioagricultura.cl/wp-content/themes/radioagricultura/images/logo-radio-agricultura.png" group-title="radios chilenas",Radio Agricultura
+http://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.futuro.cl/wp-content/themes/futuro/assets/images/futuro-home.svg" group-title="radios chilenas",Radio Futuro
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aFKYTplDUSE/UDF5CiMx0JI/AAAAAAAAB10/lmPM-H6JswQ/s1600/radio+cooperativa.png" group-title="radios chilenas", Radio Cooperativa 
+http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://yoz.cl/wp-content/uploads/2017/06/logo-yoz-small.png" group-title="radios chilenas",Radio YoZ.cl
+http://unlimited5-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/injuvfm.png" group-title="radios chilenas", INJUV.fm
+http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rln.cl/wp-content/uploads/2016/08/logo_rln-e1475776272149.png" group-title="radios chilenas", Radio Las Nieves
+https://v3.tustreaming.cl/rln/live1/event-999999.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logoteamiptvch.png" group-title="NACIONALES", << NACIONALES >>
+http://streaming.megatopradio.com/megatopradio
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-dmavo0V3Isk/VP87DbLf1dI/AAAAAAAAEH0/wcH96Tk8Un4/s1600/La%2BRed%2BHD%2B1.png" group-title="NACIONALES",La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/UCV_HD_2014.png" group-title="NACIONALES",UCV 
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ucv3.cl/imagenes/logo-ucv-200.png" group-title="NACIONALES",UCV3
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxbTRBt.jpg" group-title="NACIONALES",CHV 
+http://live.hls.http.chv.ztreaming.com/desktop/desktop.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cnnchile.com/sites/default/files/desktop/CNN_Chile_Logo.png" group-title="NACIONALES", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cnnchile.com/sites/default/files/desktop/CNN_Chile_Logo.png" group-title="NACIONALES", CNN Chile 2
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/tvn2016.png" group-title="NACIONALES",TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?ListaIPTVChile
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9D6jpxM.png" group-title="NACIONALES", Limo TVN
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5egLidz.png" group-title="NACIONALES", TVN Kids
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvnculto.png" group-title="NACIONALES",TVN De Culto
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-YZ9FHb8GHLI/AAAAAAAAAAI/AAAAAAAAAAA/2lHYJ6XyaO8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  group-title="NACIONALES",24 Play
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0kJfD7l.png" group-title="NACIONALES", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0kJfD7l.png" group-title="NACIONALES", TV Chile Alt
+https://vivoplay-i.akamaihd.net/hls/live/255329/tvchile/master.m3u8?hdnea=st=1517751000~exp=1517751150~acl=*~hmac=bfa22aa15a824d538f1ee93a7ea607a222025defbeac0c0442054da8fa1094ec
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/LogoMega2015.png" group-title="NACIONALES",Mega 
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jy2cSn9.png" group-title="NACIONALES", Ahora Noticias Digital
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/Canal13hd.png" group-title="NACIONALES",Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://www.iptvchile.xyz/logos/t13.png" group-title="NACIONALES",T13 Movil 
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logocdo.png"  group-title="NACIONALES", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
